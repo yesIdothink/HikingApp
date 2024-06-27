@@ -66,8 +66,8 @@ struct SettingsView: View {
                         .foregroundColor(isPressed ? .gray : .black)
                       
                 }
-                
-                Text("Press or food")
+                //collett
+                Text("Press for food")
             }
             .multilineTextAlignment(.center)
             .padding(.bottom, 16)
